@@ -40,9 +40,8 @@ https://github.com/LenAnderson/SillyTavern-CustomModels
 反向代理地址写http://127.0.0.1:8889/ ，模型名称写kingfall-ab-test 。
 ```
 
-![image-20250607111128528](C:\Users\杨 佳雪\AppData\Roaming\Typora\typora-user-images\image-20250607111128528.png)
-
-![image-20250607112615621](C:\Users\杨 佳雪\AppData\Roaming\Typora\typora-user-images\image-20250607112615621.png)
+![1749269760747](https://github.com/user-attachments/assets/bedb6369-30be-4f8c-8d1c-acc75a82f2d2)
+![image](https://github.com/user-attachments/assets/7523673f-9c7f-432c-bd13-1dea2fd08121)
 
 但是报错了那个网站
 
