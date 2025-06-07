@@ -2,9 +2,10 @@
 
 下载dark-server.js和dark-browser.js，楼层里有。
 
-在左侧代码栏内粘贴dark-browser.js内容     
+在左侧代码栏内粘贴dark-browser.js内容，复制完后一开始右侧是报错的，不用在意。 
+![image](https://github.com/user-attachments/assets/9c900058-aecd-404e-977a-e3a2235ee258)
 
-在本地任意文件夹内，存放dark-server.js，点击地址栏输入cmd打开命令提示符。
+在本地任意文件夹内，存放dark-server.js，点击地址栏一行行输入cmd打开命令提示符。
 
 ```
 npm init -y
@@ -16,14 +17,14 @@ npm install ws
 node dark-server.js
 ```
 
-报错
+如果报错
 
 ```
 [ERROR] 2025-06-07T02:35:22.418Z [ProxyServer] - 启动失败: Missing parameter name at 1: https://git.new/pathToRegexpError
 服务器启动失败: Missing parameter name at 1: https://git.new/pathToRegexpError
 ```
 
- 原因：dark-server.js下错了。
+ 原因：dark-server.js下错了，这个文档外部有可用的dark-server.js文件
 
 安装插件，我开了梯子。
 
